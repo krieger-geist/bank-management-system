@@ -162,6 +162,20 @@ bank-management-system/
 ### Debug Mode:
 Enable debug output by checking console logs during startup.
 
+## Screenshots
+
+### Login Window
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Customer Management
+![Customer](screenshots/customermanagement.png)
+
+### Account Management
+![Account](screenshots/accountmanagement.png)
+
 ## Development
 
 ### Adding New Features:
